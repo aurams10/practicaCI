@@ -1,0 +1,18 @@
+{
+    "name": "gatling",
+    "type": "influxdb",
+    "typeLogoUrl": "public/app/plugins/datasource/influxdb/img/influxdb_logo.svg",
+    "access": "proxy",
+    "url": "http://localhost:8086",
+    "password": "123456",
+    "user": "aura",
+    "database": "gatling",
+    "basicAuth": false,
+    "isDefault": true,
+    "jsonData": {
+        "httpMode": "GET",
+        "keepCookies": [],
+        "timeInterval": "1s"
+    },
+    "readOnly": false
+}

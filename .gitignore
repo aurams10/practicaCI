@@ -1,0 +1,5 @@
+/.idea
+/target
+src/test/resources/!logs/*.txt
+!logs/*.txt
+
